@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://centapark-canhotanbinh.blogspot.com/' target='_blank'><img src='http://centaparktanbinh.org/wp-content/uploads/2016/06/cropped-toi-uu1-1.jpg' width='500px'/>Đào tạo seo chuyên sâu</a>. Học tại nhà Linh Nguyễn. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://centapark-canhotanbinh.blogspot.com/' target='_blank'><img src='http://centaparktanbinh.org/wp-content/uploads/2016/06/cropped-toi-uu1-1.jpg' width='500px'/>Căn hộ cao cấp</a>. PKD CĐT 0906 714 176. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
